@@ -1,0 +1,8 @@
+# Secrets
+keys.py
+
+
+# Python specific
+__pycache__/
+*.py[cod]
+*$py.class
